@@ -6,4 +6,6 @@ WordPress Plugin [Click-to-Chat](https://wordpress.org/plugins/click-to-chat-for
 
 HoliThemes [Click-to-Chat](https://holithemes.com/plugins/click-to-chat/list-of-styles/)
 
-[Github Pages](https://holithemes.github.io/ctc/)
+[Discussions](https://github.com/holithemes/ctc/discussions)
+
+[GitHub Pages](https://holithemes.github.io/ctc/)
